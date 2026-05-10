@@ -79,15 +79,6 @@ I transform ideas into structured, production-ready software.
 
 ---
 
-## ⚡ Now Building
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Laravel%20SaaS%20System-50C878?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Development-000000?style=for-the-badge"/>
-</p>
-
----
-
 ## 📬 Contact & Brand
 
 <p align="center">
