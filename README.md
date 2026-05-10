@@ -1,71 +1,115 @@
-# 👋 Hi, I'm Raef
+<!-- ELITE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:008080&height=240&section=header&text=Raef%20Jarjar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;Building+Scalable+Digital+Systems;UI%2FUX+Focused+Engineer" />
+</p>
+
+---
+
+## 🧠 About Me
+
+I am **Raef Jarjar**, a Full-Stack Developer from Libya focused on building **scalable, real-world digital systems** with strong architecture and clean UI/UX.
+
+I don't just write code — I design systems that solve business problems.
+
+---
+
+## 🚀 Current Focus
+
+- ⚙️ Advanced Laravel Architecture  
+- 🧠 System Design & Scalability  
+- 🎨 UI/UX Engineering  
+- 💰 Building monetizable SaaS products  
+
+---
+
+## 💼 Experience
+
+- 🧾 Built full **POS systems** (sales, invoices, reports, inventory)  
+- 🛒 Developed **E-commerce admin dashboards** with full control panels  
+- 🎓 Created **academic systems** (students, grades, registration)  
+- 🌐 Built dynamic web applications using **PHP, AJAX, MySQL**  
+- ⚙️ Designed backend systems with structured architecture  
+
+---
+
+## 🎯 Vision & Goals
+
+- 🚀 Launch my own **SaaS product**
+- 🌍 Work with international clients remotely  
+- 🧠 Become expert in **system architecture & backend engineering**  
+- 💼 Build a strong personal developer brand  
+- 💰 Turn development into scalable income streams  
+
+---
+
+## 🧩 Tech Stack
+
+<p align="center">
+
+### Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### Backend  
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+### Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raefjarjar218&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raefjarjar218&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raefjarjar218&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I am a **Full-Stack Web Developer** from Libya, focused on building practical and efficient digital solutions with clean design and solid architecture.
-
-- 📍 **Location:** Libya, Zawiya  
-- 🧠 **Currently learning:** Laravel & Software Architecture  
-- 🎨 **Interests:** UI/UX Design • Graphic Design  
-- 📫 **Contact:** raefjarjar.com.ly  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-- 🧾 **POS Systems:** Complete solutions for sales, invoices, and reporting  
-- 🛒 **E-Commerce Dashboards:** Advanced admin panels for managing stores and data  
-- 🎓 **Academic Systems:** Platforms for student registration and results management  
-- 🌐 **Web Applications:** Dynamic systems built with PHP, AJAX, and MySQL  
-
----
-
-## 📊 GitHub Stats
+## 📬 Contact & Brand
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raefjarjar218&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raefjarjar218&theme=radical&hide_border=true" />
+  <a href="mailto:contact@raefjarjar.com.ly">
+    <img src="https://img.shields.io/badge/Email-contact@raefjarjar.com.ly-00C2A8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raefjarjar.com.ly">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👀 Profile Views
+## ⚡ Now Building
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raefjarjar218&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Laravel%20SaaS%20System-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Development-0f0f0f?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ Note
+## 🧬 Developer Identity
 
-If stats are not showing:
-- Make sure your GitHub username is exactly **raefjarjar218**
-- Try switching theme to `dark` or `tokyonight`
-- Wait a few minutes for GitHub stats API to refresh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:0f0f0f&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>Raef Jarjar • Engineering Digital Systems from Libya 🇱🇾</b>
+</p>
