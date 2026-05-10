@@ -82,6 +82,12 @@ I don't just write code — I design systems that solve business problems.
 ## 📬 Contact & Brand
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/raef-jarjar-a04856408?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/linkedin-contact@raefjarjar.com.ly-00C2A8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:contact@raefjarjar.com.ly">
     <img src="https://img.shields.io/badge/Email-contact@raefjarjar.com.ly-00C2A8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -91,15 +97,6 @@ I don't just write code — I design systems that solve business problems.
   <a href="https://raefjarjar.com.ly">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-</p>
-
----
-
-## ⚡ Now Building
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Laravel%20SaaS%20System-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Development-0f0f0f?style=for-the-badge"/>
 </p>
 
 ---
