@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Raef
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raef-Jarjar&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raef-Jarjar&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raefjarjar218&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raefjarjar218&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -48,9 +48,9 @@ I am a **Full-Stack Web Developer** from Libya, focused on building practical an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raef-Jarjar&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raefjarjar218&show_icons=true&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raef-Jarjar&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raefjarjar218&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ I am a **Full-Stack Web Developer** from Libya, focused on building practical an
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raef-Jarjar&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=raefjarjar218&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
@@ -66,22 +66,6 @@ I am a **Full-Stack Web Developer** from Libya, focused on building practical an
 ## ⚡ Note
 
 If stats are not showing:
-- Make sure your GitHub username is exactly **Raef-Jarjar**
+- Make sure your GitHub username is exactly **raefjarjar218**
 - Try switching theme to `dark` or `tokyonight`
-- Refresh after a few minutes (GitHub API sometimes delays)| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white) |
-
----
-
-### 📂 أبرز المشاريع
-- **أنظمة POS:** حلول شاملة لإدارة المنتجات، الفواتير، والتقارير التفصيلية.
-- **لوحات تحكم التجارة الإلكترونية:** منصات متقدمة لإدارة المبيعات والبيانات.
-- **الأنظمة الأكاديمية:** منصات فعالة لتسجيل الطلاب وإدارة النتائج.
-- **تطبيقات الويب:** حلول ديناميكية مبنية باستخدام PHP، AJAX، و MySQL.
-
----
-
-### 📊 إحصائيات GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raef-Jarjar&theme=radical" alt="GitHub Streak" />
-</p>
+- Wait a few minutes for GitHub stats API to refresh
